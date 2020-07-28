@@ -1,7 +1,7 @@
-## Credit Card input component
+## Credit Card Input Component
 
 ### CREDIT CARD 
-![Landing page](./image/image1.png)
+![Landing page](./image1.png)
 
 ## Features:
 * User must be able to paste not more than **N** digit number which must be equally divided into **I** input fields.

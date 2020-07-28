@@ -1,4 +1,7 @@
-## Reusable credit card input component 
+## Credit Card input component
+
+### CREDIT CARD 
+![Landing page](./image/image1.png)
 
 ## Features:
 * User must be able to paste not more than **N** digit number which must be equally divided into **I** input fields.

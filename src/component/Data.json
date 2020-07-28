@@ -1,0 +1,39 @@
+[
+    {
+        "id": "001",
+        "name": "Apple iphone11",
+        "price": "730000",
+        "img": "https://www.amazon.in/images/I/5103Xi7yQgL._SL1024_.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Apple iphone1",
+        "price": "730000",
+        "img": "https://www.amazon.in/images/I/51kGDXeFZKL._SL1024_.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Apple iphone6",
+        "price": "730000",
+        "img": "https://www.amazon.in/images/I/51o5RmQtroL._SL1024_.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Apple iphone7",
+        "price": "730000",
+        "img": "https://www.amazon.in/images/I/516GyFgGHQL._SL1024_.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Apple iphone8",
+        "price": "730000",
+        "img": "https://www.amazon.in/images/I/51i3MHoOe7L._SL1024_.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Apple iphone10",
+        "price": "730000",
+        "img": "https://www.amazon.in/images/I/5103Xi7yQgL._SL1024_.jpg"
+    }
+    
+]
